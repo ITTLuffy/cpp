@@ -14,8 +14,6 @@ int fattoriale(int x) {
 
 int main() {
     int n = fattoriale(5);
-    cout << "Fattoriale di 5 e " << n;
-    
-    
+    cout << "Fattoriale di 5 e " << n;    
     return 0;
 }
